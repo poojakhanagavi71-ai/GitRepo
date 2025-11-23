@@ -1,2 +1,2 @@
 # GitRepo
-for git repo
+This is a git repository
